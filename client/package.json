@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "animate.css": "^4.1.1",
-    "react-bootstrap": "^2.9.2",
+    "react-bootstrap": "^2.10.0",
     "react-confirm-alert": "^3.0.6",
     "react-router-dom": "^6.21.1",
     "transition-style": "^0.1.3"
